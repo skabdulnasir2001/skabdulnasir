@@ -1,0 +1,32 @@
+body{
+        
+    background-color: cornsilk;
+   
+ }
+ table{
+    background-color:cornsilk;
+
+ }
+    td{
+        font-family: 'Contrail One';font-size: 22px;
+        text-align:center;
+    }
+    th{
+        font-family: 'Croissant One';font-size: 22px;
+    }
+   
+    input:focus{
+        width: 300px;
+       
+    }
+    input{
+        border-color: gray;
+        border-radius: 5px;
+        width: 45px;
+        padding: 10px 20px 10px 11px;
+        -webkit-transition: width 0.4s ease-in-out;
+        transition: width 0.4s ease-in-out;
+        
+        
+    }
+   
